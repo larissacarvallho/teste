@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color: #1f8b4c;
+    color: white;
+    padding: 20px;
+}
+
+.admin-menu {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
